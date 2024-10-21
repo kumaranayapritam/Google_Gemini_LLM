@@ -7,10 +7,15 @@ This repository contains two Streamlit applications that interact with Google's 
 Before running the applications, ensure you have the following installed:
 
 Python 3.8 or above
+
 Streamlit
+
 python-dotenv for loading environment variables
+
 Google's Generative AI Python library (google-generativeai)
+
 PIL (Pillow) for handling images in app_image.py
+
 
 **Setup**
 1. Clone this repository.
